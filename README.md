@@ -1,4 +1,4 @@
-                            # Oii! Eu sou a Mirela Lisboa! 👋
+## Oii! Eu sou a Mirela Lisboa! 👋
 <picture>
   <source media="(prefers-color-scheme: dark)"
 srcset="https://github.com/DenadaiSenai/DenadaiSenai/blob/output/github-contribution-grid-snake-dark.svg">
