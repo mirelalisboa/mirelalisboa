@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/platane/platane/output/github-contributio
 </picture>
 
 <p align="center">
-  <i>"Colossenses 3:23 – "E tudo o que fizerdes, fazei-o de todo o coração, como ao Senhor e não aos homens". </i>
+  <i>"Colossenses 3:23 – E tudo o que fizerdes, fazei-o de todo o coração, como ao Senhor e não aos homens". </i>
 </p>
 
 --- 
