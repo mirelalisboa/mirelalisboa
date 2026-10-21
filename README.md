@@ -1,4 +1,4 @@
-# Oii! Eu sou a Mirela Lisboa! 👋
+                            # Oii! Eu sou a Mirela Lisboa! 👋
 <picture>
   <source media="(prefers-color-scheme: dark)"
 srcset="https://github.com/DenadaiSenai/DenadaiSenai/blob/output/github-contribution-grid-snake-dark.svg">
@@ -57,12 +57,7 @@ Aqui esta alguns um dos meus principais projetos que desenvolvi para aplicar meu
 *   💻 [dashboard_radarvendas](https://github.com/mirelalisboa/dashbord_radardevendas):
   Neste repositorio está o código fonte de um sistema de dashbord, para ver o lucro sobre as lojas filiadas.
 
-## 📊 Minhas atividades
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dudamarrtiins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
- 
----
 
 
 
