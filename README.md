@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/platane/platane/output/github-contributio
 
 -   Estudando Desenvolvimento de Sistemas 
 -   Estudando no Sesi, 2º EM
--   Começando a explorar **PHP** e **HTML**
+-   Começando a explorar **PHP**, **HTML** & **SQL**
 
 
 ---
